@@ -1,7 +1,7 @@
 package milas_andmetric_gastronomi_mod.client.model;
 
+import net.minecraft.world.entity.Entity;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.client.renderer.entity.state.LivingEntityRenderState;
 import net.minecraft.client.model.geom.builders.PartDefinition;
 import net.minecraft.client.model.geom.builders.MeshDefinition;
 import net.minecraft.client.model.geom.builders.LayerDefinition;
@@ -12,10 +12,13 @@ import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.model.geom.ModelLayerLocation;
 import net.minecraft.client.model.EntityModel;
 
+import com.mojang.blaze3d.vertex.VertexConsumer;
+import com.mojang.blaze3d.vertex.PoseStack;
+
 // Made with Blockbench 4.9.4
 // Exported for Minecraft version 1.17 or later with Mojang mappings
 // Paste this class into your mod and generate all required imports
-public class Modelsmores extends EntityModel<LivingEntityRenderState> {
+public class Modelsmores<T extends Entity> extends EntityModel<T> {
 	// This layer location should be baked with EntityRendererProvider.Context in
 	// the entity renderer and passed into this model's constructor
 	public static final ModelLayerLocation LAYER_LOCATION = new ModelLayerLocation(ResourceLocation.fromNamespaceAndPath("milas_and_metric_gastronomy_mod", "modelsmores"), "main");
@@ -24,7 +27,6 @@ public class Modelsmores extends EntityModel<LivingEntityRenderState> {
 	public final ModelPart ojos;
 
 	public Modelsmores(ModelPart root) {
-		super(root);
 		this.pies = root.getChild("pies");
 		this.cuerpo = root.getChild("cuerpo");
 		this.ojos = root.getChild("ojos");
@@ -51,13 +53,14 @@ public class Modelsmores extends EntityModel<LivingEntityRenderState> {
 		return LayerDefinition.create(meshdefinition, 64, 64);
 	}
 
-	public void setupAnim(LivingEntityRenderState state) {
-		float limbSwing = state.walkAnimationPos;
-		float limbSwingAmount = state.walkAnimationSpeed;
-		float ageInTicks = state.ageInTicks;
-		float netHeadYaw = state.yRot;
-		float headPitch = state.xRot;
-
+	@Override
+	public void setupAnim(T entity, float limbSwing, float limbSwingAmount, float ageInTicks, float netHeadYaw, float headPitch) {
 	}
 
+	@Override
+	public void renderToBuffer(PoseStack poseStack, VertexConsumer vertexConsumer, int packedLight, int packedOverlay, int rgb) {
+		pies.render(poseStack, vertexConsumer, packedLight, packedOverlay, rgb);
+		cuerpo.render(poseStack, vertexConsumer, packedLight, packedOverlay, rgb);
+		ojos.render(poseStack, vertexConsumer, packedLight, packedOverlay, rgb);
+	}
 }

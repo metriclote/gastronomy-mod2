@@ -13,8 +13,6 @@ import net.neoforged.bus.api.SubscribeEvent;
 import net.minecraft.world.entity.MobCategory;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.Entity;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.resources.ResourceKey;
 import net.minecraft.core.registries.Registries;
 
 import milas_andmetric_gastronomi_mod.entity.*;
@@ -183,55 +181,11 @@ public class MilasAndMetricGastronomyModModEntities {
 			EntityType.Builder.<SlimeEntity>of(SlimeEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
 
 					.sized(1f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<DonasanguijuelaEntity>> DONASANGUIJUELA = register("donasanguijuela",
-			EntityType.Builder.<DonasanguijuelaEntity>of(DonasanguijuelaEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 0.5f));
-	public static final DeferredHolder<EntityType<?>, EntityType<PhatompaletaEntity>> PHATOMPALETA = register("phatompaleta",
-			EntityType.Builder.<PhatompaletaEntity>of(PhatompaletaEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<Phatompaleta2Entity>> PHATOMPALETA_2 = register("phatompaleta_2",
-			EntityType.Builder.<Phatompaleta2Entity>of(Phatompaleta2Entity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<JarronEntity>> JARRON = register("jarron",
-			EntityType.Builder.<JarronEntity>of(JarronEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<JarronjulianEntity>> JARRONJULIAN = register("jarronjulian",
-			EntityType.Builder.<JarronjulianEntity>of(JarronjulianEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<SmoreEntity>> SMORE = register("smore",
-			EntityType.Builder.<SmoreEntity>of(SmoreEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<SmorevoladorEntity>> SMOREVOLADOR = register("smorevolador",
-			EntityType.Builder.<SmorevoladorEntity>of(SmorevoladorEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1.5f));
-	public static final DeferredHolder<EntityType<?>, EntityType<AranahamburguesaEntity>> ARANAHAMBURGUESA = register("aranahamburguesa",
-			EntityType.Builder.<AranahamburguesaEntity>of(AranahamburguesaEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(1.4f, 0.9f));
-	public static final DeferredHolder<EntityType<?>, EntityType<SerpienteheladoEntity>> SERPIENTEHELADO = register("serpientehelado",
-			EntityType.Builder.<SerpienteheladoEntity>of(SerpienteheladoEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1f));
-	public static final DeferredHolder<EntityType<?>, EntityType<DumplingiganteEntity>> DUMPLINGIGANTE = register("dumplingigante",
-			EntityType.Builder.<DumplingiganteEntity>of(DumplingiganteEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(2f, 2f));
-	public static final DeferredHolder<EntityType<?>, EntityType<MalteaditoEntity>> MALTEADITO = register("malteadito",
-			EntityType.Builder.<MalteaditoEntity>of(MalteaditoEntity::new, MobCategory.CREATURE).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
-
-					.sized(0.6f, 1.8f));
 
 	// Start of user code block custom entities
 	// End of user code block custom entities
 	private static <T extends Entity> DeferredHolder<EntityType<?>, EntityType<T>> register(String registryname, EntityType.Builder<T> entityTypeBuilder) {
-		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(ResourceKey.create(Registries.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MilasAndMetricGastronomyModMod.MODID, registryname))));
+		return REGISTRY.register(registryname, () -> (EntityType<T>) entityTypeBuilder.build(registryname));
 	}
 
 	@SubscribeEvent
@@ -276,17 +230,6 @@ public class MilasAndMetricGastronomyModModEntities {
 		Heladomob8Entity.init(event);
 		HeladometricEntity.init(event);
 		SlimeEntity.init(event);
-		DonasanguijuelaEntity.init(event);
-		PhatompaletaEntity.init(event);
-		Phatompaleta2Entity.init(event);
-		JarronEntity.init(event);
-		JarronjulianEntity.init(event);
-		SmoreEntity.init(event);
-		SmorevoladorEntity.init(event);
-		AranahamburguesaEntity.init(event);
-		SerpienteheladoEntity.init(event);
-		DumplingiganteEntity.init(event);
-		MalteaditoEntity.init(event);
 	}
 
 	@SubscribeEvent
@@ -331,16 +274,5 @@ public class MilasAndMetricGastronomyModModEntities {
 		event.put(HELADOMOB_8.get(), Heladomob8Entity.createAttributes().build());
 		event.put(HELADOMETRIC.get(), HeladometricEntity.createAttributes().build());
 		event.put(SLIME.get(), SlimeEntity.createAttributes().build());
-		event.put(DONASANGUIJUELA.get(), DonasanguijuelaEntity.createAttributes().build());
-		event.put(PHATOMPALETA.get(), PhatompaletaEntity.createAttributes().build());
-		event.put(PHATOMPALETA_2.get(), Phatompaleta2Entity.createAttributes().build());
-		event.put(JARRON.get(), JarronEntity.createAttributes().build());
-		event.put(JARRONJULIAN.get(), JarronjulianEntity.createAttributes().build());
-		event.put(SMORE.get(), SmoreEntity.createAttributes().build());
-		event.put(SMOREVOLADOR.get(), SmorevoladorEntity.createAttributes().build());
-		event.put(ARANAHAMBURGUESA.get(), AranahamburguesaEntity.createAttributes().build());
-		event.put(SERPIENTEHELADO.get(), SerpienteheladoEntity.createAttributes().build());
-		event.put(DUMPLINGIGANTE.get(), DumplingiganteEntity.createAttributes().build());
-		event.put(MALTEADITO.get(), MalteaditoEntity.createAttributes().build());
 	}
 }

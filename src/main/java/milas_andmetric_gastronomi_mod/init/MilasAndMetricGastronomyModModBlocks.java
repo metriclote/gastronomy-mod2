@@ -6,14 +6,11 @@ package milas_andmetric_gastronomi_mod.init;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredBlock;
 
-import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.Block;
 
 import milas_andmetric_gastronomi_mod.block.*;
 
 import milas_andmetric_gastronomi_mod.MilasAndMetricGastronomyModMod;
-
-import java.util.function.Function;
 
 public class MilasAndMetricGastronomyModModBlocks {
 	public static final DeferredRegister.Blocks REGISTRY = DeferredRegister.createBlocks(MilasAndMetricGastronomyModMod.MODID);
@@ -47,46 +44,38 @@ public class MilasAndMetricGastronomyModModBlocks {
 	public static final DeferredBlock<Block> TOMATO_STAGE_3;
 	public static final DeferredBlock<Block> CANDYGRASS;
 	public static final DeferredBlock<Block> CANDYBARPLANT;
-	public static final DeferredBlock<Block> BLOQUESERPIENTE;
-	public static final DeferredBlock<Block> ESTATUANAITBEAR;
 	static {
-		MESADEGATRONOMIA = register("mesadegatronomia", MesadegatronomiaBlock::new);
-		SALSAMILASFLU = register("salsamilasflu", SalsamilasfluBlock::new);
-		GASTRONOMIWORLD_PORTAL = register("gastronomiworld_portal", GastronomiworldPortalBlock::new);
-		SAL_ORE = register("sal_ore", SalOreBlock::new);
-		SAL_BLOCK = register("sal_block", SalBlockBlock::new);
-		SALSAMETRICFLU = register("salsametricflu", SalsametricfluBlock::new);
-		BLOQUEMILAS = register("bloquemilas", BloquemilasBlock::new);
-		MUNDOMILAS_PORTAL = register("mundomilas_portal", MundomilasPortalBlock::new);
-		PALTA_WOOD = register("palta_wood", PaltaWoodBlock::new);
-		PALTA_LOG = register("palta_log", PaltaLogBlock::new);
-		PALTA_PLANKS = register("palta_planks", PaltaPlanksBlock::new);
-		PALTA_LEAVES = register("palta_leaves", PaltaLeavesBlock::new);
-		PALTA_STAIRS = register("palta_stairs", PaltaStairsBlock::new);
-		PALTA_SLAB = register("palta_slab", PaltaSlabBlock::new);
-		PALTA_FENCE = register("palta_fence", PaltaFenceBlock::new);
-		PALTA_FENCE_GATE = register("palta_fence_gate", PaltaFenceGateBlock::new);
-		PALTA_PRESSURE_PLATE = register("palta_pressure_plate", PaltaPressurePlateBlock::new);
-		PALTA_BUTTON = register("palta_button", PaltaButtonBlock::new);
-		CRISTAL_HELADO_ORE = register("cristal_helado_ore", CristalHeladoOreBlock::new);
-		CRISTAL_HELADO_BLOCK = register("cristal_helado_block", CristalHeladoBlockBlock::new);
-		CRISTALDE_CARAMELO_ORE = register("cristalde_caramelo_ore", CristaldeCarameloOreBlock::new);
-		CRISTALDE_CARAMELO_BLOCK = register("cristalde_caramelo_block", CristaldeCarameloBlockBlock::new);
-		SALMISTICAS_ORE = register("salmisticas_ore", SalmisticasOreBlock::new);
-		SALMISTICAS_BLOCK = register("salmisticas_block", SalmisticasBlockBlock::new);
-		TOMATO_STAGE_0 = register("tomato_stage_0", TomatoStage0Block::new);
-		TOMATO_STAGE_1 = register("tomato_stage_1", TomatoStage1Block::new);
-		TOMATO_STAGE_2 = register("tomato_stage_2", TomatoStage2Block::new);
-		TOMATO_STAGE_3 = register("tomato_stage_3", TomatoStage3Block::new);
-		CANDYGRASS = register("candygrass", CandygrassBlock::new);
-		CANDYBARPLANT = register("candybarplant", CandybarplantBlock::new);
-		BLOQUESERPIENTE = register("bloqueserpiente", BloqueserpienteBlock::new);
-		ESTATUANAITBEAR = register("estatuanaitbear", EstatuanaitbearBlock::new);
+		MESADEGATRONOMIA = REGISTRY.register("mesadegatronomia", MesadegatronomiaBlock::new);
+		SALSAMILASFLU = REGISTRY.register("salsamilasflu", SalsamilasfluBlock::new);
+		GASTRONOMIWORLD_PORTAL = REGISTRY.register("gastronomiworld_portal", GastronomiworldPortalBlock::new);
+		SAL_ORE = REGISTRY.register("sal_ore", SalOreBlock::new);
+		SAL_BLOCK = REGISTRY.register("sal_block", SalBlockBlock::new);
+		SALSAMETRICFLU = REGISTRY.register("salsametricflu", SalsametricfluBlock::new);
+		BLOQUEMILAS = REGISTRY.register("bloquemilas", BloquemilasBlock::new);
+		MUNDOMILAS_PORTAL = REGISTRY.register("mundomilas_portal", MundomilasPortalBlock::new);
+		PALTA_WOOD = REGISTRY.register("palta_wood", PaltaWoodBlock::new);
+		PALTA_LOG = REGISTRY.register("palta_log", PaltaLogBlock::new);
+		PALTA_PLANKS = REGISTRY.register("palta_planks", PaltaPlanksBlock::new);
+		PALTA_LEAVES = REGISTRY.register("palta_leaves", PaltaLeavesBlock::new);
+		PALTA_STAIRS = REGISTRY.register("palta_stairs", PaltaStairsBlock::new);
+		PALTA_SLAB = REGISTRY.register("palta_slab", PaltaSlabBlock::new);
+		PALTA_FENCE = REGISTRY.register("palta_fence", PaltaFenceBlock::new);
+		PALTA_FENCE_GATE = REGISTRY.register("palta_fence_gate", PaltaFenceGateBlock::new);
+		PALTA_PRESSURE_PLATE = REGISTRY.register("palta_pressure_plate", PaltaPressurePlateBlock::new);
+		PALTA_BUTTON = REGISTRY.register("palta_button", PaltaButtonBlock::new);
+		CRISTAL_HELADO_ORE = REGISTRY.register("cristal_helado_ore", CristalHeladoOreBlock::new);
+		CRISTAL_HELADO_BLOCK = REGISTRY.register("cristal_helado_block", CristalHeladoBlockBlock::new);
+		CRISTALDE_CARAMELO_ORE = REGISTRY.register("cristalde_caramelo_ore", CristaldeCarameloOreBlock::new);
+		CRISTALDE_CARAMELO_BLOCK = REGISTRY.register("cristalde_caramelo_block", CristaldeCarameloBlockBlock::new);
+		SALMISTICAS_ORE = REGISTRY.register("salmisticas_ore", SalmisticasOreBlock::new);
+		SALMISTICAS_BLOCK = REGISTRY.register("salmisticas_block", SalmisticasBlockBlock::new);
+		TOMATO_STAGE_0 = REGISTRY.register("tomato_stage_0", TomatoStage0Block::new);
+		TOMATO_STAGE_1 = REGISTRY.register("tomato_stage_1", TomatoStage1Block::new);
+		TOMATO_STAGE_2 = REGISTRY.register("tomato_stage_2", TomatoStage2Block::new);
+		TOMATO_STAGE_3 = REGISTRY.register("tomato_stage_3", TomatoStage3Block::new);
+		CANDYGRASS = REGISTRY.register("candygrass", CandygrassBlock::new);
+		CANDYBARPLANT = REGISTRY.register("candybarplant", CandybarplantBlock::new);
 	}
-
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
-	private static <B extends Block> DeferredBlock<B> register(String name, Function<BlockBehaviour.Properties, ? extends B> supplier) {
-		return REGISTRY.registerBlock(name, supplier);
-	}
 }

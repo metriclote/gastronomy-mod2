@@ -54,16 +54,5 @@ public class MilasAndMetricGastronomyModModEntityRenderers {
 		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.HELADOMOB_8.get(), Heladomob8Renderer::new);
 		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.HELADOMETRIC.get(), HeladometricRenderer::new);
 		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.SLIME.get(), SlimeRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.DONASANGUIJUELA.get(), DonasanguijuelaRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.PHATOMPALETA.get(), PhatompaletaRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.PHATOMPALETA_2.get(), Phatompaleta2Renderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.JARRON.get(), JarronRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.JARRONJULIAN.get(), JarronjulianRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.SMORE.get(), SmoreRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.SMOREVOLADOR.get(), SmorevoladorRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.ARANAHAMBURGUESA.get(), AranahamburguesaRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.SERPIENTEHELADO.get(), SerpienteheladoRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.DUMPLINGIGANTE.get(), DumplingiganteRenderer::new);
-		event.registerEntityRenderer(MilasAndMetricGastronomyModModEntities.MALTEADITO.get(), MalteaditoRenderer::new);
 	}
 }

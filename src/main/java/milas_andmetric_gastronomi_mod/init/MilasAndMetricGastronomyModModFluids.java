@@ -13,7 +13,7 @@ import net.neoforged.api.distmarker.Dist;
 import net.minecraft.world.level.material.Fluid;
 import net.minecraft.world.level.material.FlowingFluid;
 import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.client.renderer.chunk.ChunkSectionLayer;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 
 import milas_andmetric_gastronomi_mod.fluid.SalsamilasfluFluid;
@@ -32,10 +32,10 @@ public class MilasAndMetricGastronomyModModFluids {
 	public static class FluidsClientSideHandler {
 		@SubscribeEvent
 		public static void clientSetup(FMLClientSetupEvent event) {
-			ItemBlockRenderTypes.setRenderLayer(SALSAMILASFLU.get(), ChunkSectionLayer.TRANSLUCENT);
-			ItemBlockRenderTypes.setRenderLayer(FLOWING_SALSAMILASFLU.get(), ChunkSectionLayer.TRANSLUCENT);
-			ItemBlockRenderTypes.setRenderLayer(SALSAMETRICFLU.get(), ChunkSectionLayer.TRANSLUCENT);
-			ItemBlockRenderTypes.setRenderLayer(FLOWING_SALSAMETRICFLU.get(), ChunkSectionLayer.TRANSLUCENT);
+			ItemBlockRenderTypes.setRenderLayer(SALSAMILASFLU.get(), RenderType.translucent());
+			ItemBlockRenderTypes.setRenderLayer(FLOWING_SALSAMILASFLU.get(), RenderType.translucent());
+			ItemBlockRenderTypes.setRenderLayer(SALSAMETRICFLU.get(), RenderType.translucent());
+			ItemBlockRenderTypes.setRenderLayer(FLOWING_SALSAMETRICFLU.get(), RenderType.translucent());
 		}
 	}
 }

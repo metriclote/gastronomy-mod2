@@ -39,8 +39,6 @@ public class MilasAndMetricGastronomyModModTabs {
 				tabData.accept(MilasAndMetricGastronomyModModBlocks.SALMISTICAS_BLOCK.get().asItem());
 				tabData.accept(MilasAndMetricGastronomyModModBlocks.CANDYGRASS.get().asItem());
 				tabData.accept(MilasAndMetricGastronomyModModBlocks.CANDYBARPLANT.get().asItem());
-				tabData.accept(MilasAndMetricGastronomyModModBlocks.BLOQUESERPIENTE.get().asItem());
-				tabData.accept(MilasAndMetricGastronomyModModBlocks.ESTATUANAITBEAR.get().asItem());
 			}).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> GASTRONOMICALMOD = REGISTRY.register("gastronomicalmod", () -> CreativeModeTab.builder()
 			.title(Component.translatable("item_group.milas_and_metric_gastronomy_mod.gastronomicalmod")).icon(() -> new ItemStack(MilasAndMetricGastronomyModModItems.TAMAL.get())).displayItems((parameters, tabData) -> {
@@ -184,22 +182,6 @@ public class MilasAndMetricGastronomyModModTabs {
 				tabData.accept(MilasAndMetricGastronomyModModItems.YAKI_ONIGIRI.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.ZONGZI.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.GOMITA_6.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PANDEPERRONAITMER.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_1.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_2.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_3.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_4.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_5.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_6.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.HELADO_7.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PALETA_1.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PALETA_2.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.SWEETCORN.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.GRANDDUMPLING.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.MALTEADA.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.MALTEADAMETRIC.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.CREMABATIDA.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PIZZACONGELADA.get());
 			}).withTabsBefore(BLOCKSWW.getId()).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> GASTRONOMICALEVOLUTION = REGISTRY.register("gastronomicalevolution", () -> CreativeModeTab.builder()
 			.title(Component.translatable("item_group.milas_and_metric_gastronomy_mod.gastronomicalevolution")).icon(() -> new ItemStack(MilasAndMetricGastronomyModModItems.MEGARAVIOLIMILAS.get())).displayItems((parameters, tabData) -> {
@@ -218,7 +200,6 @@ public class MilasAndMetricGastronomyModModTabs {
 				tabData.accept(MilasAndMetricGastronomyModModItems.CUPC.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.SANDWICHLEJENDARIO.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.CUPK.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.CUPKAQUEMAJODEFINITIVO.get());
 			}).withSearchBar().withTabsBefore(GASTRONOMICALMOD.getId()).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> FRUITSAND_VEGETEABLES = REGISTRY.register("fruitsand_vegeteables", () -> CreativeModeTab.builder()
 			.title(Component.translatable("item_group.milas_and_metric_gastronomy_mod.fruitsand_vegeteables")).icon(() -> new ItemStack(MilasAndMetricGastronomyModModItems.ARANDANO.get())).displayItems((parameters, tabData) -> {
@@ -238,9 +219,6 @@ public class MilasAndMetricGastronomyModModTabs {
 				tabData.accept(MilasAndMetricGastronomyModModItems.PURPLEONION.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.WHITEONION.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.LETTUCE.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.CORN.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.CEREZA.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.CEREZADULCE.get());
 			}).withSearchBar().withTabsBefore(GASTRONOMICALEVOLUTION.getId()).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> GASTRONOMICALWEAPONS = REGISTRY.register("gastronomicalweapons", () -> CreativeModeTab.builder()
 			.title(Component.translatable("item_group.milas_and_metric_gastronomy_mod.gastronomicalweapons")).icon(() -> new ItemStack(MilasAndMetricGastronomyModModItems.RAVIOLIMILASARM_SWORD.get())).displayItems((parameters, tabData) -> {
@@ -295,17 +273,6 @@ public class MilasAndMetricGastronomyModModTabs {
 				tabData.accept(MilasAndMetricGastronomyModModItems.HELADOMOB_8_SPAWN_EGG.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.HELADOMETRIC_SPAWN_EGG.get());
 				tabData.accept(MilasAndMetricGastronomyModModItems.SLIME_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.DONASANGUIJUELA_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PHATOMPALETA_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.PHATOMPALETA_2_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.JARRON_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.JARRONJULIAN_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.SMORE_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.SMOREVOLADOR_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.ARANAHAMBURGUESA_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.SERPIENTEHELADO_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.DUMPLINGIGANTE_SPAWN_EGG.get());
-				tabData.accept(MilasAndMetricGastronomyModModItems.MALTEADITO_SPAWN_EGG.get());
 			}).withTabsBefore(GASTRONOMICALWEAPONS.getId()).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BLACKFOOD = REGISTRY.register("blackfood",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.milas_and_metric_gastronomy_mod.blackfood")).icon(() -> new ItemStack(MilasAndMetricGastronomyModModItems.TINTEBLACK.get())).displayItems((parameters, tabData) -> {

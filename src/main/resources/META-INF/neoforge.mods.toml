@@ -4,7 +4,7 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="milas_and_metric_gastronomy_mod"
-version="2307."
+version="2304."
 displayName="milas and metric gastronomy mod"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/metric-and-milas-gastronomy"
 logoFile="logo.png"
@@ -22,14 +22,14 @@ description="es un mos que a\u00F1ade muchas nuevas comidas al minecraft entre o
 [[dependencies.milas_and_metric_gastronomy_mod]]
     modId="neoforge"
     type="required"
-    versionRange="[21.8.31,)"
+    versionRange="[21.1.190,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.milas_and_metric_gastronomy_mod]]
     modId="minecraft"
     type="required"
-    versionRange="[1.21.8]"
+    versionRange="[1.21.1]"
     ordering="AFTER"
     side="BOTH"
 
