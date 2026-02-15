@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      },
+      {
+        "value": "CUSTOM:Megaraviolimilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "CUSTOM:Raviolimilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Raviolimilasdefinitivo"
+    },
+    "name": "ravilidefinitivo",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "minecraft:gold_block"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tomatedorado",
+    "count": 9
+  }
+}

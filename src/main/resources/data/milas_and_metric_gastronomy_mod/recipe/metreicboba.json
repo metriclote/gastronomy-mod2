@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:salsametric",
+    "b": "milas_and_metric_gastronomy_mod:bobaliquida",
+    "c": "milas_and_metric_gastronomy_mod:semilladeboba",
+    "d": "milas_and_metric_gastronomy_mod:tedeboba"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tedebobametric",
+    "count": 1
+  }
+}

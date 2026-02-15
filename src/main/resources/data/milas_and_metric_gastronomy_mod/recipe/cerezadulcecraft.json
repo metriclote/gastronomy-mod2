@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:sugar",
+    "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "milas_and_metric_gastronomy_mod:cereza",
+    "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cerezadulce",
+    "count": 1
+  }
+}

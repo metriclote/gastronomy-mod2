@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Masa"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Masa"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Sataandagi"
+    },
+    "name": "sataandagicraft",
+    "namespace": "mod"
+  }
+}

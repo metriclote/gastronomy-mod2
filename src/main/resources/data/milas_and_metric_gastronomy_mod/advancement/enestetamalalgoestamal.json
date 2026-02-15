@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:tamalote"
+    },
+    "title": {
+      "translate": "advancements.enestetamalalgoestamal.title"
+    },
+    "description": {
+      "translate": "advancements.enestetamalalgoestamal.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enestetamalalgoestamal_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:tamalote"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:untamalitoporfavor"
+}

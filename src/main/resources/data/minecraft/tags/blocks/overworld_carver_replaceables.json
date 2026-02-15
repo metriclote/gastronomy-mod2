@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone",
+    "m_and_m_gastronomy_expirience:mesadegatronomia",
+    "minecraft:coarse_dirt",
+    "minecraft:dirt",
+    "minecraft:grass_block"
+  ]
+}

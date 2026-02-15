@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:papeldecupcake_majo",
+    "count": 2
+  }
+}

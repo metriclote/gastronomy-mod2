@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    " ce"
+  ],
+  "key": {
+    "a": "minecraft:egg",
+    "b": "minecraft:wither_skeleton_skull",
+    "c": "minecraft:sugar",
+    "d": "minecraft:milk_bucket",
+    "e": "minecraft:black_dye"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:a_3436756d",
+    "count": 1
+  }
+}

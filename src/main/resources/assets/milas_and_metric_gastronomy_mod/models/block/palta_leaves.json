@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "milas_and_metric_gastronomy_mod:block/palta_leaves",
+    "particle": "milas_and_metric_gastronomy_mod:block/palta_leaves"
+  }
+}

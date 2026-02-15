@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:bolsadearroz",
+    "b": "minecraft:kelp"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:yaki_onigiri",
+    "count": 1
+  }
+}

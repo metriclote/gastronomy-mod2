@@ -1,0 +1,11 @@
+{
+  "asset_id": "milas_and_metric_gastronomy_mod:metricandmilasgastronomimod",
+  "height": 1,
+  "width": 1,
+  "title": {
+    "translate": "painting.milas_and_metric_gastronomy_mod.metricandmilasgastronomimod.title"
+  },
+  "author": {
+    "translate": "painting.milas_and_metric_gastronomy_mod.metricandmilasgastronomimod.author"
+  }
+}

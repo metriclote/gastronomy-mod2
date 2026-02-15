@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "birch_forest",
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:hada_dedulce",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 6
+  }
+}

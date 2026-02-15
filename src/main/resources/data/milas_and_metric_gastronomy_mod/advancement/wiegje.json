@@ -1,0 +1,84 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:jugometric"
+    },
+    "title": {
+      "translate": "advancements.wiegje.title"
+    },
+    "description": {
+      "translate": "advancements.wiegje.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "wiegje_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:jugometric"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    },
+    "wiegje_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:raviolimilas"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    },
+    "wiegje_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:sandwichjulian"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    },
+    "wiegje_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:heladodobby"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:elsuenodeloschef"
+}

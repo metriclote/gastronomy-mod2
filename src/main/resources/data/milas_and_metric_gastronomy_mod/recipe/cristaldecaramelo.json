@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:sugar",
+    "b": "milas_and_metric_gastronomy_mod:cristalde_caramelo_ingot"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cristaldecarammelo",
+    "count": 1
+  }
+}

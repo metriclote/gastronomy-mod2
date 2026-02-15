@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:chilefantasma",
+    "b": "milas_and_metric_gastronomy_mod:taco"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tacoconchilefantasma",
+    "count": 1
+  }
+}

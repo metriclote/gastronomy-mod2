@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:cremabatida",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:milk_bucket",
+    "milas_and_metric_gastronomy_mod:malteada",
+    "minecraft:milk_bucket",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:malteadametric",
+    "count": 1
+  }
+}

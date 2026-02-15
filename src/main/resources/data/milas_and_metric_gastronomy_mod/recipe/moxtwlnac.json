@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "milas_and_metric_gastronomy_mod:vinomoxztwl",
+    "milas_and_metric_gastronomy_mod:cubetadeuvasblancas",
+    "milas_and_metric_gastronomy_mod:cubetadeuvasblancas"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:vinobe",
+    "count": 1
+  }
+}

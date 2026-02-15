@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:soyextrahuevoordinario",
+    "b": "minecraft:egg"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:huevo_armor_helmet",
+    "count": 1
+  }
+}

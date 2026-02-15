@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:cocacola"
+    },
+    "title": {
+      "translate": "advancements.ohtengopiedraasenmis.title"
+    },
+    "description": {
+      "translate": "advancements.ohtengopiedraasenmis.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ohtengopiedraasenmis_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:cocacola"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:salsamil"
+}

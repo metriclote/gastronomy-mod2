@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:orange_dye",
+    "milas_and_metric_gastronomy_mod:rodajadepan"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:ro",
+    "count": 1
+  }
+}

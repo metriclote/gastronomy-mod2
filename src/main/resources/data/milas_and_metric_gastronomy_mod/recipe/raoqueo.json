@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    "milas_and_metric_gastronomy_mod:queso_1",
+    "milas_and_metric_gastronomy_mod:salsatartara",
+    "milas_and_metric_gastronomy_mod:queso_1",
+    "milas_and_metric_gastronomy_mod:salsatartara",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:a_13a",
+    "count": 1
+  }
+}

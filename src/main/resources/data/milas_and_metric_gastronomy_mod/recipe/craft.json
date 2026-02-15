@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:lettuce",
+    "milas_and_metric_gastronomy_mod:ro",
+    "milas_and_metric_gastronomy_mod:granodecafe",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:pimienta",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:granodecafe",
+    "milas_and_metric_gastronomy_mod:ro",
+    "milas_and_metric_gastronomy_mod:lettuce"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sandwichjulian",
+    "count": 1
+  }
+}

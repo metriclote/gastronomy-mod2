@@ -1,0 +1,16 @@
+{
+  "_fv": 79,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Vende dorchino",
+    "pointOfInterest": {
+      "value": "CUSTOM:Mesadegatronomia"
+    },
+    "actionSound": {
+      "value": "entity.villager.work_armorer"
+    },
+    "hat": "None",
+    "professionTextureFile": "aldeano_chino.png",
+    "zombifiedProfessionTextureFile": "aldeano_chino.png"
+  }
+}

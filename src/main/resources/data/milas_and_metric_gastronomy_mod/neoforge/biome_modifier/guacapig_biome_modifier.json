@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "milas_and_metric_gastronomy_mod:bosquepersa",
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:guacapig",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

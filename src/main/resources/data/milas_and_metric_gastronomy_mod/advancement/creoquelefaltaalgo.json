@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:salsamilasflu_bucket"
+    },
+    "title": {
+      "translate": "advancements.creoquelefaltaalgo.title"
+    },
+    "description": {
+      "translate": "advancements.creoquelefaltaalgo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "creoquelefaltaalgo_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:salsamilasflu_bucket"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:viajeaparisoestoydormido"
+}

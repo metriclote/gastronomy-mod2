@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:egg"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:huevo_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "plains",
+    "deep_cold_ocean",
+    "jungle",
+    "forest",
+    "milas_and_metric_gastronomy_mod:meshow",
+    "milas_and_metric_gastronomy_mod:physow"
+  ],
+  "features": "milas_and_metric_gastronomy_mod:tiendadeshandwichjulian_feature",
+  "step": "surface_structures"
+}

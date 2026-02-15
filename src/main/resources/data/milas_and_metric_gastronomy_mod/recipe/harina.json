@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "minecraft:egg",
+    "minecraft:water_bucket",
+    "minecraft:water_bucket",
+    "minecraft:egg"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:masa",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:rodajadepan",
+    "milas_and_metric_gastronomy_mod:gomita",
+    "milas_and_metric_gastronomy_mod:gomita",
+    "minecraft:milk_bucket",
+    "milas_and_metric_gastronomy_mod:narana",
+    "milas_and_metric_gastronomy_mod:narana",
+    "milas_and_metric_gastronomy_mod:papeldecupcake_majo"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cupk",
+    "count": 1
+  }
+}

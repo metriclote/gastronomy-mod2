@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "milas_and_metric_gastronomy_mod:op",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "milas_and_metric_gastronomy_mod:arandano",
+    "milas_and_metric_gastronomy_mod:jugometric",
+    "milas_and_metric_gastronomy_mod:arandano",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "milas_and_metric_gastronomy_mod:arandano",
+    "milas_and_metric_gastronomy_mod:salsametric"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:jugometricdefinitivo",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "milas_and_metric_gastronomy_mod:palta_planks"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:palta_fence_gate",
+    "count": 1
+  }
+}

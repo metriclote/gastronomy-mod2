@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:cafedobby"
+    },
+    "title": {
+      "translate": "advancements.horadedespertar.title"
+    },
+    "description": {
+      "translate": "advancements.horadedespertar.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "horadedespertar_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:cafedobby"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:sabiadelospollosperodelospinchosno"
+}

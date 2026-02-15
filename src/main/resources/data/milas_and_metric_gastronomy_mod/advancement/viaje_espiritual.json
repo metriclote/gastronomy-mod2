@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:tedebobametric"
+    },
+    "title": {
+      "translate": "advancements.viaje_espiritual.title"
+    },
+    "description": {
+      "translate": "advancements.viaje_espiritual.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "viaje_espiritual_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:tedebobametric"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:dumplingspara_todos"
+}

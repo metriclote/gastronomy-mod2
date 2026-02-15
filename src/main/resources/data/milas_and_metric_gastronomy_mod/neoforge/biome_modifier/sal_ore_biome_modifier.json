@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_overworld",
+  "features": "milas_and_metric_gastronomy_mod:sal_ore",
+  "step": "underground_ores"
+}

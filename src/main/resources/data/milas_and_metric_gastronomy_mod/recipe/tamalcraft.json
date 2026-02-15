@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:string",
+    "minecraft:dried_kelp",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_beef",
+    "minecraft:potato",
+    "minecraft:dried_kelp",
+    "minecraft:string",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tamal",
+    "count": 1
+  }
+}

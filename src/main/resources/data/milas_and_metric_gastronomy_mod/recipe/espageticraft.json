@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:albondiga",
+    "milas_and_metric_gastronomy_mod:salsa",
+    "milas_and_metric_gastronomy_mod:albondiga",
+    "milas_and_metric_gastronomy_mod:fideos",
+    "milas_and_metric_gastronomy_mod:albondiga",
+    "milas_and_metric_gastronomy_mod:fideos",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:espagueti",
+    "count": 1
+  }
+}

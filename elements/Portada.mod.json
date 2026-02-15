@@ -1,0 +1,29 @@
+{
+  "_fv": 79,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "metric_and_milas_gastronomy_mod.png",
+          "use1Xscale": true,
+          "anchorPoint": "CENTER",
+          "x": -45,
+          "y": 1,
+          "locked": false
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "MainMenu",
+    "gridSettings": {
+      "sx": 15,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

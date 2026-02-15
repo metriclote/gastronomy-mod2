@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salmisticas_block"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:salmisticas_dust",
+    "count": 9
+  }
+}

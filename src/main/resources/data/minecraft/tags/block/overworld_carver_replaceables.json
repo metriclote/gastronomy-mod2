@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:stone",
+    "milas_and_metric_gastronomy_mod:candygrass",
+    "milas_and_metric_gastronomy_mod:mesadegatronomia"
+  ]
+}

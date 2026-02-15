@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:melon_slice",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:jugodesandia",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "milas_and_metric_gastronomy_mod:blocks/mesadegatronomia",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "milas_and_metric_gastronomy_mod:mesadegatronomia"
+        }
+      ]
+    }
+  ]
+}

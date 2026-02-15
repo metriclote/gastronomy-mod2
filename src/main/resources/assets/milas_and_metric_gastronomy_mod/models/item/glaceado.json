@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "m_and_m_gastronomy_expirience:item/tortilla"
+  }
+}

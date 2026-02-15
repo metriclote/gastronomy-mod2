@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "milas_and_metric_gastronomy_mod:block/cristaldecaramelo_ore_block",
+    "particle": "milas_and_metric_gastronomy_mod:block/cristaldecaramelo_ore_block"
+  },
+  "render_type": "solid"
+}

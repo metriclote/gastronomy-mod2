@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:arandano",
+    "milas_and_metric_gastronomy_mod:jugodemanzana",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:jugometric",
+    "count": 1
+  }
+}

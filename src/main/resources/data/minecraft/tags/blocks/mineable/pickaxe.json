@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "m_and_m_gastronomy_expirience:salmisticas_block",
+    "m_and_m_gastronomy_expirience:salmisticas_ore",
+    "m_and_m_gastronomy_expirience:cristalde_caramelo_block",
+    "m_and_m_gastronomy_expirience:cristalde_caramelo_ore",
+    "m_and_m_gastronomy_expirience:cristal_helado_block",
+    "m_and_m_gastronomy_expirience:cristal_helado_ore",
+    "m_and_m_gastronomy_expirience:sal_block",
+    "m_and_m_gastronomy_expirience:sal_ore"
+  ]
+}

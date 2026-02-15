@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Raviolimilasdefinitivo"
+      },
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      },
+      {
+        "value": "CUSTOM:Megaraviolimilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "CUSTOM:Megaraviolimilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilasflu.bucket"
+      },
+      {
+        "value": "CUSTOM:Raviolimilasdefinitivo"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Mundomilas"
+    },
+    "name": "mecheromilascraft",
+    "namespace": "mod"
+  }
+}

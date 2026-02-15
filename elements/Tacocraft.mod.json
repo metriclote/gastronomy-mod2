@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COOKED_PORKCHOP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Chile"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Tortilla"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Taco"
+    },
+    "name": "tacocraft",
+    "namespace": "mod"
+  }
+}

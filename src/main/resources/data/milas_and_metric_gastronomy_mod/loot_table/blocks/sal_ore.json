@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "milas_and_metric_gastronomy_mod:blocks/sal_ore",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "milas_and_metric_gastronomy_mod:sal_dust",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bca",
+    " b "
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:salsametric",
+    "b": "milas_and_metric_gastronomy_mod:arandano",
+    "c": "milas_and_metric_gastronomy_mod:cristaldecarammelo"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:caramelo",
+    "count": 1
+  }
+}

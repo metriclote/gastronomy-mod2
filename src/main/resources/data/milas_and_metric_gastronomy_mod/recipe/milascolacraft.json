@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "minecraft:sugar",
+    "minecraft:lime_dye",
+    "milas_and_metric_gastronomy_mod:cocacola",
+    "minecraft:lime_dye",
+    "minecraft:sugar",
+    "milas_and_metric_gastronomy_mod:salsamilas"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:milascola",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:aguacate",
+    "minecraft:cooked_salmon",
+    "minecraft:dried_kelp",
+    "milas_and_metric_gastronomy_mod:bolsadearroz",
+    "minecraft:dried_kelp",
+    "minecraft:cooked_salmon",
+    "milas_and_metric_gastronomy_mod:aguacate"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:shushi",
+    "count": 1
+  }
+}

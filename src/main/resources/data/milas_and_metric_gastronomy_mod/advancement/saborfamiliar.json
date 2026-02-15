@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:pinchocompleto"
+    },
+    "title": {
+      "translate": "advancements.saborfamiliar.title"
+    },
+    "description": {
+      "translate": "advancements.saborfamiliar.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "saborfamiliar_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:pinchocompleto"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "milas_and_metric_gastronomy_mod:elsuenodeloschef"
+}

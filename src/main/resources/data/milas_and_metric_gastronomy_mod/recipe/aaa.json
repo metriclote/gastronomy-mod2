@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:water_bucket",
+    "minecraft:cooked_beef",
+    "minecraft:red_dye",
+    "minecraft:orange_dye",
+    "minecraft:cooked_porkchop",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sopajulian",
+    "count": 1
+  }
+}

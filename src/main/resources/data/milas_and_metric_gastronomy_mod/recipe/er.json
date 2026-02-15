@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:pink_dye",
+    "b": "minecraft:sugar",
+    "c": "minecraft:cookie"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:macaron",
+    "count": 1
+  }
+}

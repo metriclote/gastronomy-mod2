@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_wood"
+    },
+    "axis=z": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_wood",
+      "x": 90
+    }
+  }
+}

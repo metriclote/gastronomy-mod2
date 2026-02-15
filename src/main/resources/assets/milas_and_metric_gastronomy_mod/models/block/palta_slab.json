@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "milas_and_metric_gastronomy_mod:block/palta_planks",
+    "bottom": "milas_and_metric_gastronomy_mod:block/palta_planks",
+    "top": "milas_and_metric_gastronomy_mod:block/palta_planks",
+    "side": "milas_and_metric_gastronomy_mod:block/palta_planks"
+  },
+  "render_type": "solid"
+}

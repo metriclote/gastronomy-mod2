@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:milk_bucket",
+    "minecraft:blue_ice",
+    "minecraft:milk_bucket",
+    "minecraft:blue_ice",
+    "milas_and_metric_gastronomy_mod:cafedobby",
+    "minecraft:blue_ice",
+    "minecraft:milk_bucket",
+    "minecraft:blue_ice",
+    "minecraft:milk_bucket"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:caf",
+    "count": 1
+  }
+}

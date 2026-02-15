@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "milas_and_metric_gastronomy_mod:eearmor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "milas_and_metric_gastronomy_mod:eearmor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "neoforge:fluid_container",
+    "fluid": "milas_and_metric_gastronomy_mod:salsametricflu",
+    "textures": {
+      "base": "item/bucket",
+      "fluid": "neoforge:item/mask/bucket_fluid",
+      "cover": "neoforge:item/mask/bucket_fluid_cover"
+    }
+  }
+}

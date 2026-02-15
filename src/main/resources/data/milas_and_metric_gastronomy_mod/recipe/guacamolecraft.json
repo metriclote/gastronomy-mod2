@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:aguacate",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "minecraft:bowl",
+    "milas_and_metric_gastronomy_mod:aguacate",
+    "milas_and_metric_gastronomy_mod:sal_dust",
+    "milas_and_metric_gastronomy_mod:aguacate"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:guacamole",
+    "count": 1
+  }
+}

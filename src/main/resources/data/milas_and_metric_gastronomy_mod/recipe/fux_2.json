@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:panquequesn",
+    "milas_and_metric_gastronomy_mod:panqueque",
+    "milas_and_metric_gastronomy_mod:tinteblack"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:x_2",
+    "count": 1
+  }
+}

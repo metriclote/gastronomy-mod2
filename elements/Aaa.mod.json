@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "Items.DYE#14"
+      },
+      {
+        "value": "Items.COOKED_PORKCHOP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BOWL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Sopajulian"
+    },
+    "name": "aaa",
+    "namespace": "mod"
+  }
+}

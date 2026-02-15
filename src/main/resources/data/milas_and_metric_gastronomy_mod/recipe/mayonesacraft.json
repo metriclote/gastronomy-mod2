@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    " c "
+  ],
+  "key": {
+    "a": "minecraft:egg",
+    "b": "milas_and_metric_gastronomy_mod:mantequilla",
+    "c": "minecraft:bucket"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:mayonesa",
+    "count": 1
+  }
+}

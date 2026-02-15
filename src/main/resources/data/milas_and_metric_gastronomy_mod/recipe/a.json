@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    "milas_and_metric_gastronomy_mod:ravioli",
+    "minecraft:cooked_porkchop",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "minecraft:cooked_porkchop",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:raviolimilas",
+    "count": 1
+  }
+}

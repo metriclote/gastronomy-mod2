@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#12"
+      },
+      {
+        "value": "CUSTOM:Arandano"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "Items.IRON_LEGGINGS"
+      },
+      {
+        "value": "CUSTOM:Perrocalientea"
+      },
+      {
+        "value": "Items.IRON_LEGGINGS"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "CUSTOM:Arandano"
+      },
+      {
+        "value": "Items.DYE#12"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Perropitufo"
+    },
+    "name": "potufo",
+    "namespace": "mod"
+  }
+}

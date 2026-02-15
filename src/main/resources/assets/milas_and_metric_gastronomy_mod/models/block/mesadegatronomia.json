@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/chiseled_bookshelf_side",
+    "up": "minecraft:block/chiseled_bookshelf_top",
+    "north": "milas_and_metric_gastronomy_mod:block/mesadegastronomia",
+    "east": "milas_and_metric_gastronomy_mod:block/mesadegastronomia",
+    "south": "milas_and_metric_gastronomy_mod:block/mesadegastronomia",
+    "west": "milas_and_metric_gastronomy_mod:block/mesadegastronomia",
+    "particle": "minecraft:block/chiseled_bookshelf_side"
+  },
+  "render_type": "solid"
+}

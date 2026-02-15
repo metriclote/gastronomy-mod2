@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:redstone",
+    "milas_and_metric_gastronomy_mod:gomita_5",
+    "minecraft:redstone",
+    "minecraft:iron_block",
+    "minecraft:egg",
+    "minecraft:iron_block",
+    "minecraft:redstone",
+    "milas_and_metric_gastronomy_mod:gomita_5",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:naitbear_spawn_egg",
+    "count": 9
+  }
+}

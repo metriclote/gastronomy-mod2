@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "ocean",
+    "warm_ocean"
+  ],
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:calamarfrito",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

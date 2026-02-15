@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:milas",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "milas_and_metric_gastronomy_mod:milas",
+    "milas_and_metric_gastronomy_mod:fideos",
+    "milas_and_metric_gastronomy_mod:milas",
+    "milas_and_metric_gastronomy_mod:fideos",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pastamilas",
+    "count": 1
+  }
+}

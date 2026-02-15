@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": "minecraft:bread"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pandeperro",
+    "count": 1
+  }
+}

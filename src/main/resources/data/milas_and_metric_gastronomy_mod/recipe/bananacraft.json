@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": "minecraft:sweet_berries",
+    "b": "minecraft:snowball",
+    "c": "milas_and_metric_gastronomy_mod:banana",
+    "d": "minecraft:bowl"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:bananasplit",
+    "count": 1
+  }
+}

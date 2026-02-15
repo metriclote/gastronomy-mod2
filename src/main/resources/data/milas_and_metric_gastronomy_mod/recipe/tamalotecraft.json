@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dried_kelp",
+    "minecraft:string",
+    "minecraft:dried_kelp",
+    "minecraft:baked_potato",
+    "minecraft:kelp",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:dried_kelp",
+    "minecraft:string",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tamalote",
+    "count": 1
+  }
+}

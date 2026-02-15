@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "CUSTOM:CristaldeCarameloBlock"
+      },
+      {
+        "value": "CUSTOM:Cerezadulce"
+      },
+      {
+        "value": "CUSTOM:Cerezadulce"
+      },
+      {
+        "value": "CUSTOM:Cupa"
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "CUSTOM:Cerezadulce"
+      },
+      {
+        "value": "CUSTOM:CristaldeCarameloBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cupkaquemajodefinitivo"
+    },
+    "name": "cupkaquemajodef",
+    "namespace": "mod"
+  }
+}

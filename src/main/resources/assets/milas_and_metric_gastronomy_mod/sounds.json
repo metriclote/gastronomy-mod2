@@ -1,0 +1,50 @@
+{
+  "cristalfundido": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:cristal",
+        "stream": false
+      }
+    ]
+  },
+  "funfi": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:cristal",
+        "stream": false
+      }
+    ]
+  },
+  "hadavoice": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:hada",
+        "stream": false
+      }
+    ]
+  },
+  "hadav2": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:hadav22",
+        "stream": false
+      }
+    ]
+  },
+  "metricsound": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:metric_and_milas_gastronomi_mod_volumen_1",
+        "stream": false
+      }
+    ]
+  },
+  "corrin_biome": {
+    "sounds": [
+      {
+        "name": "milas_and_metric_gastronomy_mod:whatsapp-audio-2025-06-25-at-12.59.37",
+        "stream": false
+      }
+    ]
+  }
+}

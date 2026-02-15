@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:uvas",
+    "minecraft:bucket"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cubetadeuvas",
+    "count": 1
+  }
+}

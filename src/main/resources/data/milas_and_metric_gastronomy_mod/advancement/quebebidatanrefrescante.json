@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:jugodesandia"
+    },
+    "title": {
+      "translate": "advancements.quebebidatanrefrescante.title"
+    },
+    "description": {
+      "translate": "advancements.quebebidatanrefrescante.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "quebebidatanrefrescante_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:jugodesandia"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:ohmetric"
+}

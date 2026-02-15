@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:limon",
+    "minecraft:egg",
+    "minecraft:milk_bucket",
+    "milas_and_metric_gastronomy_mod:masa",
+    "minecraft:cookie",
+    "milas_and_metric_gastronomy_mod:masa",
+    "minecraft:milk_bucket",
+    "minecraft:sugar",
+    "milas_and_metric_gastronomy_mod:limon"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:piedelimon",
+    "count": 1
+  }
+}

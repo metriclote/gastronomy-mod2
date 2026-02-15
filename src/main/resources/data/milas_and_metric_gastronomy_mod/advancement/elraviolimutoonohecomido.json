@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:raviolimilas"
+    },
+    "title": {
+      "translate": "advancements.elraviolimutoonohecomido.title"
+    },
+    "description": {
+      "translate": "advancements.elraviolimutoonohecomido.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "elraviolimutoonohecomido_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:raviolimilas"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:elsuenodeloschef"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "ocean",
+    "deep_ocean",
+    "frozen_ocean"
+  ],
+  "features": "milas_and_metric_gastronomy_mod:salmisticas_ore",
+  "step": "underground_ores"
+}

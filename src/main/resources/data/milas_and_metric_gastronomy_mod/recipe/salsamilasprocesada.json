@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:salsamilas"
+  }
+}

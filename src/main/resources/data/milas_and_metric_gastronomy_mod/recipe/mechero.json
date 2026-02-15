@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:raviolimilas",
+    "minecraft:flint_and_steel"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:gastronomiworld",
+    "count": 1
+  }
+}

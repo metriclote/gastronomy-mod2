@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": "minecraft:cooked_porkchop",
+    "b": "milas_and_metric_gastronomy_mod:chile",
+    "c": "minecraft:cooked_beef",
+    "d": "minecraft:carrot",
+    "e": "milas_and_metric_gastronomy_mod:tortilla"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:taco",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "background": "minecraft:block/stone",
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:pinchos"
+    },
+    "title": {
+      "translate": "advancements.sabiadelospollosperodelospinchosno.title"
+    },
+    "description": {
+      "translate": "advancements.sabiadelospollosperodelospinchosno.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sabiadelospollosperodelospinchosno_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:pinchos"
+          ]
+        }
+      }
+    }
+  }
+}

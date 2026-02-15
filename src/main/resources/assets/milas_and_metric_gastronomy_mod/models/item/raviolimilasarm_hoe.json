@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "milas_and_metric_gastronomy_mod:item/raviolimilasarm_hoe"
+  }
+}

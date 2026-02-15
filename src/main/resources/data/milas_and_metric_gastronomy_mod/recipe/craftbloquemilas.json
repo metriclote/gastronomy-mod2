@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:bloquemilas",
+    "count": 9
+  }
+}

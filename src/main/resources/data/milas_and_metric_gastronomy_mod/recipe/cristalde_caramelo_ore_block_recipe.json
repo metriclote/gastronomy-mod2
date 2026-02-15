@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:cristalde_caramelo_ingot"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "count": 1
+  }
+}

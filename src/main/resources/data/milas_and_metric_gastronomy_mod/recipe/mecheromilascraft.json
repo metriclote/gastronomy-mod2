@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "cba"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:raviolimilasdefinitivo",
+    "b": "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "c": "milas_and_metric_gastronomy_mod:megaraviolimilas",
+    "d": "milas_and_metric_gastronomy_mod:salsamilas",
+    "e": "minecraft:flint_and_steel"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:mundomilas",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "ab ",
+    "bcd"
+  ],
+  "key": {
+    "a": "minecraft:cooked_porkchop",
+    "b": "milas_and_metric_gastronomy_mod:masa",
+    "c": "milas_and_metric_gastronomy_mod:bolsadearroz",
+    "d": "minecraft:carrot"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:dumplings",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+package milas_andmetric_gastronomi_mod.item;
+
+import net.minecraft.world.item.ToolMaterial;
+import net.minecraft.world.item.Item;
+import net.minecraft.tags.TagKey;
+import net.minecraft.tags.BlockTags;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.core.registries.Registries;
+
+public class RaviolimilasarmPickaxeItem extends Item {
+	private static final ToolMaterial TOOL_MATERIAL = new ToolMaterial(BlockTags.INCORRECT_FOR_NETHERITE_TOOL, 1000, 30f, 0, 14,
+			TagKey.create(Registries.ITEM, ResourceLocation.parse("milas_and_metric_gastronomy_mod:raviolimilasarm_pickaxe_repair_items")));
+
+	public RaviolimilasarmPickaxeItem(Item.Properties properties) {
+		super(properties.pickaxe(TOOL_MATERIAL, 1f, -3f));
+	}
+}

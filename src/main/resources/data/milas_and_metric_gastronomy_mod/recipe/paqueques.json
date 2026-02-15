@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honey_bottle",
+    "milas_and_metric_gastronomy_mod:panqueques"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:panqueque",
+    "count": 1
+  }
+}

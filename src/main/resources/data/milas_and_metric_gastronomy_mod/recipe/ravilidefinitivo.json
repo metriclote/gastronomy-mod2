@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:megaraviolimilas",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "milas_and_metric_gastronomy_mod:raviolimilas",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "milas_and_metric_gastronomy_mod:salsamilasflu_bucket"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:raviolimilasdefinitivo",
+    "count": 1
+  }
+}

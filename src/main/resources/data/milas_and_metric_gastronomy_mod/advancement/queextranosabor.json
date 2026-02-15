@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:cocapina"
+    },
+    "title": {
+      "translate": "advancements.queextranosabor.title"
+    },
+    "description": {
+      "translate": "advancements.queextranosabor.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "queextranosabor_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:cocapina"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:ohtengopiedraasenmis"
+}

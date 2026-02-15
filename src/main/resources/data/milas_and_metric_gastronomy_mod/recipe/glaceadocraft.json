@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bca",
+    " bd"
+  ],
+  "key": {
+    "a": "minecraft:egg",
+    "b": "minecraft:sugar",
+    "c": "minecraft:milk_bucket",
+    "d": "minecraft:pink_dye"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:glaceadoitem",
+    "count": 1
+  }
+}

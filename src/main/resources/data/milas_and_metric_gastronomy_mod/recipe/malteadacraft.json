@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " dc"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:cremabatida",
+    "b": "minecraft:milk_bucket",
+    "c": "milas_and_metric_gastronomy_mod:cereza",
+    "d": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:malteada",
+    "count": 1
+  }
+}

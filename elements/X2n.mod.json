@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "soparameniger",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "animations": [],
+    "name": "Sopa del ramen black",
+    "rarity": "UNCOMMON",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Blackfood"
+      }
+    ],
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "isPiglinCurrency": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "inventorySize": 12,
+    "inventoryStackSize": 64,
+    "enableRanged": false,
+    "shootConstantly": false,
+    "rangedItemChargesPower": false,
+    "projectileDisableAmmoCheck": false,
+    "isFood": false,
+    "nutritionalValue": 8,
+    "saturation": 1.4000000000000001,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "isMusicDisc": false,
+    "musicDiscLengthInTicks": 0,
+    "musicDiscAnalogOutput": 0,
+    "providedBannerPatterns": []
+  }
+}

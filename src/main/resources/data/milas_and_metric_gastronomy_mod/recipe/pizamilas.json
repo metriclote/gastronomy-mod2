@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsamilas",
+    "milas_and_metric_gastronomy_mod:pizza_1"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pizzamilas",
+    "count": 1
+  }
+}

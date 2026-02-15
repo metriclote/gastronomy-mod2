@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:papasfritas",
+    "milas_and_metric_gastronomy_mod:pinchos",
+    "milas_and_metric_gastronomy_mod:ravioli",
+    "milas_and_metric_gastronomy_mod:jugodemanzana",
+    "minecraft:crafting_table",
+    "milas_and_metric_gastronomy_mod:tamal",
+    "milas_and_metric_gastronomy_mod:vinomoxtwzl",
+    "milas_and_metric_gastronomy_mod:sandwich",
+    "milas_and_metric_gastronomy_mod:ramen"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:mesadegatronomia",
+    "count": 1
+  }
+}

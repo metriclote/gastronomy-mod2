@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bread"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:rodajadepan",
+    "count": 9
+  }
+}

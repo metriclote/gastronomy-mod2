@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:arandano",
+    "minecraft:snowball",
+    "minecraft:potion",
+    "milas_and_metric_gastronomy_mod:hielotriturado",
+    "milas_and_metric_gastronomy_mod:hielotriturado",
+    "milas_and_metric_gastronomy_mod:conodehelado_2"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:heladodobby",
+    "count": 1
+  }
+}

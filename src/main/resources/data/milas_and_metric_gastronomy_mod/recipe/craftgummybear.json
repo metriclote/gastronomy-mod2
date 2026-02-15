@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:gomita_4",
+    "milas_and_metric_gastronomy_mod:gomita_5",
+    "milas_and_metric_gastronomy_mod:gomita",
+    "milas_and_metric_gastronomy_mod:gomita",
+    "minecraft:music_disc_ward",
+    "milas_and_metric_gastronomy_mod:gomita_3",
+    "milas_and_metric_gastronomy_mod:gomita_3",
+    "milas_and_metric_gastronomy_mod:gomita_3",
+    "milas_and_metric_gastronomy_mod:gomita_2"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:gummybear",
+    "count": 9
+  }
+}

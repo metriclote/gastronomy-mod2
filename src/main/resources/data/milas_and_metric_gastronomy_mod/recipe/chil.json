@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:chile",
+    "b": "milas_and_metric_gastronomy_mod:tanquecriogenico"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:chilegelido",
+    "count": 1
+  }
+}

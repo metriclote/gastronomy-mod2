@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="milas_and_metric_gastronomy_mod"
+version="2307."
+displayName="milas and metric gastronomy mod"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/metric-and-milas-gastronomy"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Metric & milas and dobbys"
+description="es un mos que a\u00F1ade muchas nuevas comidas al minecraft entre otras cosasm"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.milas_and_metric_gastronomy_mod]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.8.31,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.milas_and_metric_gastronomy_mod]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.8]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

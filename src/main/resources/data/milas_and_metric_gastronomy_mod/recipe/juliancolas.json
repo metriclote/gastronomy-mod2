@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:redstone",
+    "minecraft:sugar",
+    "minecraft:orange_dye",
+    "milas_and_metric_gastronomy_mod:cocacola",
+    "minecraft:orange_dye",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:juliancola",
+    "count": 1
+  }
+}

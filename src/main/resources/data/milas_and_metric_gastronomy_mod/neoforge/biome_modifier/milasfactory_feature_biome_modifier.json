@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "milas_and_metric_gastronomy_mod:meshow",
+    "milas_and_metric_gastronomy_mod:physow",
+    "milas_and_metric_gastronomy_mod:milows"
+  ],
+  "features": "milas_and_metric_gastronomy_mod:milasfactory_feature",
+  "step": "surface_structures"
+}

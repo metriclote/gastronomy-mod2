@@ -1,0 +1,9 @@
+{
+  "type": "milas_and_metric_gastronomy_mod:structure_feature",
+  "config": {
+    "structure": "milas_and_metric_gastronomy_mod:macdonals2",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

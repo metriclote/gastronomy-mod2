@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_trapdoor",
+    "minecraft:glass",
+    "minecraft:glass",
+    "minecraft:oak_planks",
+    "minecraft:glass",
+    "minecraft:glass"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tazadecafe",
+    "count": 1
+  }
+}

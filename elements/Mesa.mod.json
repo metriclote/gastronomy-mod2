@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Papasfritas"
+      },
+      {
+        "value": "CUSTOM:Pinchos"
+      },
+      {
+        "value": "CUSTOM:Ravioli"
+      },
+      {
+        "value": "CUSTOM:Jugodemanzana"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": "CUSTOM:Tamal"
+      },
+      {
+        "value": "CUSTOM:Vinomoxtwzl"
+      },
+      {
+        "value": "CUSTOM:Sandwich"
+      },
+      {
+        "value": "CUSTOM:Ramen"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Mesadegatronomia"
+    },
+    "name": "mesa",
+    "namespace": "mod"
+  }
+}

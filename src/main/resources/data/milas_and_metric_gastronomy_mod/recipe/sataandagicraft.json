@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:masa",
+    "b": "minecraft:egg",
+    "c": "minecraft:milk_bucket",
+    "d": "minecraft:sugar"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sataandagi",
+    "count": 1
+  }
+}

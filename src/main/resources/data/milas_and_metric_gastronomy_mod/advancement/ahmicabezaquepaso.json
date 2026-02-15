@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:vinomoxztwl"
+    },
+    "title": {
+      "translate": "advancements.ahmicabezaquepaso.title"
+    },
+    "description": {
+      "translate": "advancements.ahmicabezaquepaso.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "ahmicabezaquepaso_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:vinomoxztwl"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:ohgalletasporqueestanduras"
+}

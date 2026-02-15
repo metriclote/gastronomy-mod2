@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:carrot",
+    "minecraft:cooked_chicken",
+    "minecraft:potion",
+    "minecraft:baked_potato",
+    "milas_and_metric_gastronomy_mod:sal_dust"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sopadelramen",
+    "count": 1
+  }
+}

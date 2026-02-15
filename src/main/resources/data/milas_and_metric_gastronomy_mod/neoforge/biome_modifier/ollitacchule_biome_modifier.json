@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "milas_and_metric_gastronomy_mod:meshow",
+    "milas_and_metric_gastronomy_mod:physow"
+  ],
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:ollitacchule",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

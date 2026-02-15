@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:jugodemanzana"
+    },
+    "title": {
+      "translate": "advancements.lamanzanaesbuenaperoenjugomejor.title"
+    },
+    "description": {
+      "translate": "advancements.lamanzanaesbuenaperoenjugomejor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lamanzanaesbuenaperoenjugomejor_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:jugodemanzana"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:viajeaparisoestoydormido"
+}

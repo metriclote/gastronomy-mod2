@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:semilladeboba",
+    "b": "milas_and_metric_gastronomy_mod:bobaliquida",
+    "c": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tedeboba",
+    "count": 1
+  }
+}

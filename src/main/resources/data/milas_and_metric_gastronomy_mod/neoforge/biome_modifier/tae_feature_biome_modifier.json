@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "milas_and_metric_gastronomy_mod:bosquepersa",
+  "features": "milas_and_metric_gastronomy_mod:tae_feature",
+  "step": "surface_structures"
+}

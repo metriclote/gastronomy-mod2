@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "milas_and_metric_gastronomy_mod:cristal_helado_block",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "milas_and_metric_gastronomy_mod:salmisticas_ore",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_ore",
+    "milas_and_metric_gastronomy_mod:cristal_helado_ore",
+    "milas_and_metric_gastronomy_mod:sal_block",
+    "milas_and_metric_gastronomy_mod:salmisticas_block",
+    "milas_and_metric_gastronomy_mod:sal_ore"
+  ]
+}

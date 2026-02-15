@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:ice",
+    "b": "milas_and_metric_gastronomy_mod:cristal_helado_block",
+    "c": "milas_and_metric_gastronomy_mod:hielotriturado"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tanquecriogenico",
+    "count": 1
+  }
+}

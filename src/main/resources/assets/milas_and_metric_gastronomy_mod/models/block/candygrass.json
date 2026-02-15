@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "milas_and_metric_gastronomy_mod:block/bottom_side_candy",
+    "top": "milas_and_metric_gastronomy_mod:block/candygrassblock",
+    "side": "milas_and_metric_gastronomy_mod:block/grass_block_side",
+    "overlay": "milas_and_metric_gastronomy_mod:block/grass_block_side",
+    "particle": "milas_and_metric_gastronomy_mod:block/bottom_side_candy"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "milas_and_metric_gastronomy_mod:block/gastronomiworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "milas_and_metric_gastronomy_mod:block/gastronomiworld_portal_ns"
+    }
+  }
+}

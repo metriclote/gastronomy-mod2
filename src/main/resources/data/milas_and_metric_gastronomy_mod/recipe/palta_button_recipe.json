@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:palta_planks"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:palta_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,50 @@
+/advancement grant Dev until m_and_m_gastronomy_expirience:sabiadelospollosperodelospinchosno
+/advancement grant Dev everything
+/time set day
+/weather clear
+/kill @e
+/time set day
+/enchant Dev minecraft:sharpness 5
+/give Dev minecraft:end_portal
+/give Dev minecraft:end_portal_frame
+/time set day
+/effect give Dev minecraft:hunger infinite 100
+/effect give Dev minecraft:hunger infinite 250
+/effect clear
+/time set day
+/effect clear
+/locate biome m_and_m_gastronomy_expirience:bosquepersa
+/tp @s -5275 87 -4095
+/kill
+/time set day
+/weather clear
+/effect clear
+/time set day
+/effect clear
+/time set day
+/effect clear
+/effect give Dev minecraft:hunger 1000
+/effect give Dev minecraft:hunger 1000 12
+/effect give Dev minecraft:hunger 1000 120
+/effect give Dev minecraft:hunger 1000 250
+/effect clear
+/time set day
+/effect clear
+/time set day
+/weather clear
+/time set day
+/locate biome m_and_m_gastronomy_expirience:glucoseforest
+/tp @s -34 -54 38
+/locate biome m_and_m_gastronomy_expirience:glucoseforest
+/tp @s -45 -48 31
+/gamerule keepInventory true
+/time set day
+/give Dev m_and_m_gastronomy_expirience:huevo_armor_helmet
+/enchant Dev minecraft:sharpness 5
+/enchant Dev minecraft:sweeping 3
+/time set day
+/locate biome m_and_m_gastronomy_expirience:glucoseforest
+/tp @s -353 86 10
+/time set day
+/enchant Dev minecraft:sharpness 5
+/time set day

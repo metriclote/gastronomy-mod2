@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:lime_dye",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:lime_dye",
+    "milas_and_metric_gastronomy_mod:jugometric",
+    "minecraft:lime_dye",
+    "milas_and_metric_gastronomy_mod:salsametric",
+    "minecraft:lime_dye",
+    "milas_and_metric_gastronomy_mod:salsametric"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:op",
+    "count": 1
+  }
+}

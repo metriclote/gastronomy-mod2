@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:tomate",
+    "minecraft:stone"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:piedracontomate",
+    "count": 1
+  }
+}

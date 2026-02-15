@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "m_and_m_gastronomy_expirience:narana"
+    },
+    {
+      "item": "m_and_m_gastronomy_expirience:narana"
+    },
+    {
+      "item": "m_and_m_gastronomy_expirience:cocacola"
+    },
+    {
+      "item": "m_and_m_gastronomy_expirience:narana"
+    },
+    {
+      "item": "m_and_m_gastronomy_expirience:narana"
+    }
+  ],
+  "result": {
+    "item": "m_and_m_gastronomy_expirience:cocanaja",
+    "count": 1
+  }
+}

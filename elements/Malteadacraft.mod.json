@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cremabatida"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Cereza"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "CUSTOM:Cereza"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Malteada"
+    },
+    "name": "malteadacraft",
+    "namespace": "mod"
+  }
+}

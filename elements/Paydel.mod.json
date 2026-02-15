@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Limon"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Masa"
+      },
+      {
+        "value": "Items.COOKIE"
+      },
+      {
+        "value": "CUSTOM:Masa"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "CUSTOM:Limon"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Piedelimon"
+    },
+    "name": "paydel",
+    "namespace": "mod"
+  }
+}

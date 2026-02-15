@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:rodajadepan",
+    "minecraft:sugar",
+    "minecraft:milk_bucket",
+    "milas_and_metric_gastronomy_mod:cereza",
+    "milas_and_metric_gastronomy_mod:papeldecupcake_majo"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cupcake_mariajose",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rodajadepan"
+      },
+      {
+        "value": "CUSTOM:Gomita"
+      },
+      {
+        "value": "CUSTOM:Gomita"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Narana"
+      },
+      {
+        "value": "CUSTOM:Narana"
+      },
+      {
+        "value": "CUSTOM:PapeldecupcakeMajo"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cupk"
+    },
+    "name": "g_13",
+    "namespace": "mod"
+  }
+}

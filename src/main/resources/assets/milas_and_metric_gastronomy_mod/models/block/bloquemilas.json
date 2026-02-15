@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "milas_and_metric_gastronomy_mod:block/salsa_milas",
+    "up": "milas_and_metric_gastronomy_mod:block/salsa_milas",
+    "north": "milas_and_metric_gastronomy_mod:block/bloquemilas",
+    "east": "milas_and_metric_gastronomy_mod:block/salsa_milas",
+    "south": "milas_and_metric_gastronomy_mod:block/salsa_milas",
+    "west": "milas_and_metric_gastronomy_mod:block/salsa_milas",
+    "particle": "milas_and_metric_gastronomy_mod:block/salsa_milas"
+  },
+  "render_type": "solid"
+}

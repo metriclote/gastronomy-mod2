@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COOKED_CHICKEN"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "Items.BAKED_POTATO"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SalDust"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Sopadelramen"
+    },
+    "name": "sopita_2",
+    "namespace": "mod"
+  }
+}

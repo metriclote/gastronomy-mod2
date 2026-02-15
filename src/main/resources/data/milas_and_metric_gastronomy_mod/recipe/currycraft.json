@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": "minecraft:cooked_chicken",
+    "b": "milas_and_metric_gastronomy_mod:chile",
+    "c": "milas_and_metric_gastronomy_mod:bolsadearroz",
+    "d": "minecraft:carrot",
+    "e": "minecraft:bowl"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:curry",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "minecraft:bowl",
+    "minecraft:potion",
+    "milas_and_metric_gastronomy_mod:tomate"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sopadetomate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salchicha",
+    "milas_and_metric_gastronomy_mod:pandeperro"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:perrocalientea",
+    "count": 1
+  }
+}

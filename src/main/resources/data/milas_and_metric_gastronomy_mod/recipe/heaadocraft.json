@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": "minecraft:purple_dye",
+    "b": "minecraft:snowball",
+    "c": "minecraft:sugar",
+    "d": "milas_and_metric_gastronomy_mod:conodehelado_2"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:helado",
+    "count": 1
+  }
+}

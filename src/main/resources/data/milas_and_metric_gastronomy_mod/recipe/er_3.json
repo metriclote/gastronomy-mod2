@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:orange_dye",
+    "b": "minecraft:red_dye",
+    "c": "milas_and_metric_gastronomy_mod:macaron"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:macaronjulian",
+    "count": 1
+  }
+}

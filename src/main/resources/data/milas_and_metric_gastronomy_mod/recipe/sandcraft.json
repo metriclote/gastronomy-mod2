@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:sandwich",
+    "b": "milas_and_metric_gastronomy_mod:jamona"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:sandwichlejendario",
+    "count": 1
+  }
+}

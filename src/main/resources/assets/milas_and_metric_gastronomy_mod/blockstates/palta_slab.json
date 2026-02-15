@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_slab"
+    },
+    "type=top": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_slab_top"
+    },
+    "type=double": {
+      "model": "milas_and_metric_gastronomy_mod:block/palta_slab_full"
+    }
+  }
+}

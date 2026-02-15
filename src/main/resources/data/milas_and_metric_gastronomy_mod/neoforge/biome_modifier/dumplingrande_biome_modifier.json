@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "cherry_grove",
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:dumplingrande",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

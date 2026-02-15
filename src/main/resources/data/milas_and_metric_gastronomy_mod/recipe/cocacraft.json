@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:sugar",
+    "minecraft:redstone_block",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "minecraft:glass_bottle",
+    "minecraft:sugar",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cocacola",
+    "count": 1
+  }
+}

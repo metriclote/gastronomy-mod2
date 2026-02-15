@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potato",
+    "minecraft:potato",
+    "minecraft:potato",
+    "minecraft:potato",
+    "milas_and_metric_gastronomy_mod:cartondepapas"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:papasfritas",
+    "count": 1
+  }
+}

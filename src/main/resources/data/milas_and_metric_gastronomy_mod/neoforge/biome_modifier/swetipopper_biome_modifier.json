@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "milas_and_metric_gastronomy_mod:corrinforest",
+  "spawners": {
+    "type": "milas_and_metric_gastronomy_mod:swetipopper",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

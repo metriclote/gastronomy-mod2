@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "Items.BANNER#0"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "CUSTOM:Mesadegatronomia"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:Mesadegatronomia"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.BANNER#0"
+      },
+      {
+        "value": "Blocks.BLACKSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tinteblack"
+    },
+    "name": "black",
+    "namespace": "mod"
+  }
+}

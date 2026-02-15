@@ -1,0 +1,127 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "music": [
+      {
+        "weight": 1,
+        "data": {
+          "sound": "ambient.cave",
+          "min_delay": 12000,
+          "max_delay": 24000,
+          "replace_current_music": true
+        }
+      }
+    ],
+    "foliage_color": -13369345,
+    "grass_color": -39424,
+    "sky_color": -65536,
+    "fog_color": -1452073,
+    "water_color": -16711885,
+    "water_fog_color": 329011
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_2",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_3",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_4",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_5",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_6",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_7",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      },
+      {
+        "type": "milas_and_metric_gastronomy_mod:heladomob_8",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 10
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": [
+    "minecraft:cave",
+    "minecraft:cave_extra_underground",
+    "minecraft:canyon"
+  ],
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_medium",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma"
+    ],
+    [],
+    [],
+    [
+      "milas_and_metric_gastronomy_mod:meshow_tree",
+      "minecraft:patch_grass_forest"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

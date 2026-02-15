@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:salsametricn",
+    "milas_and_metric_gastronomy_mod:tamalote",
+    "milas_and_metric_gastronomy_mod:tinteblack"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tamaloten",
+    "count": 1
+  }
+}

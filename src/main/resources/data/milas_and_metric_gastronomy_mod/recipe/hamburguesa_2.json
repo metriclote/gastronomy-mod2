@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:rodajadepan",
+    "minecraft:cooked_beef",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:queso_1",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "minecraft:cooked_beef",
+    "milas_and_metric_gastronomy_mod:rodajadepan"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:hamburguesa",
+    "count": 1
+  }
+}

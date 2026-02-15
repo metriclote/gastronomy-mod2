@@ -1,0 +1,19 @@
+{
+  "values": {
+    "milas_and_metric_gastronomy_mod:ollita": {
+      "weight": 100
+    },
+    "milas_and_metric_gastronomy_mod:ollitacchule": {
+      "weight": 100
+    },
+    "milas_and_metric_gastronomy_mod:chef": {
+      "weight": 100
+    },
+    "milas_and_metric_gastronomy_mod:milaschef": {
+      "weight": 100
+    },
+    "milas_and_metric_gastronomy_mod:calamarfrito": {
+      "weight": 100
+    }
+  }
+}

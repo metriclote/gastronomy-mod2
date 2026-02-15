@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:nada"
+    },
+    "title": {
+      "translate": "advancements.soyxtrahuevoordinari.title"
+    },
+    "description": {
+      "translate": "advancements.soyxtrahuevoordinari.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "soyxtrahuevoordinari_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:soyextrahuevoordinario"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:elsuenodeloschef"
+}

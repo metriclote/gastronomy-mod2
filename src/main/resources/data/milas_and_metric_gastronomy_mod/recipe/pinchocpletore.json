@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    " bc",
+    "b d"
+  ],
+  "key": {
+    "a": "minecraft:cooked_chicken",
+    "b": "minecraft:stick",
+    "c": "minecraft:cooked_beef",
+    "d": "milas_and_metric_gastronomy_mod:tomate"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pinchocompleto",
+    "count": 1
+  }
+}

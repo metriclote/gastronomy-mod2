@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:palta_planks"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:palta_stairs",
+    "count": 4
+  }
+}

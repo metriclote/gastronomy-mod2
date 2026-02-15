@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:granodecafe",
+    "milas_and_metric_gastronomy_mod:tazadecafe"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cafe",
+    "count": 1
+  }
+}

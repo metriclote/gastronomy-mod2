@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:sugar",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block",
+    "milas_and_metric_gastronomy_mod:cerezadulce",
+    "milas_and_metric_gastronomy_mod:cerezadulce",
+    "milas_and_metric_gastronomy_mod:cupa",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "milas_and_metric_gastronomy_mod:cerezadulce",
+    "milas_and_metric_gastronomy_mod:cristalde_caramelo_block"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cupkaquemajodefinitivo",
+    "count": 1
+  }
+}

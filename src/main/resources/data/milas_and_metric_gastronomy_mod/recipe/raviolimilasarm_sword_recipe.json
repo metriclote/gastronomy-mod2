@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:raviolimilas",
+    "b": "milas_and_metric_gastronomy_mod:salsamilas"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:raviolimilasarm_sword",
+    "count": 1
+  }
+}

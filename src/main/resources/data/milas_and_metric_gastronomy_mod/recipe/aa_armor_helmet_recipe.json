@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "c c"
+  ],
+  "key": {
+    "a": "minecraft:white_wool",
+    "b": "minecraft:iron_helmet",
+    "c": "minecraft:string"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:aa_armor_helmet",
+    "count": 1
+  }
+}

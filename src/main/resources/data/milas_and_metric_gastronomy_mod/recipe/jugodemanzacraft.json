@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:apple",
+    "b": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:jugodemanzana",
+    "count": 1
+  }
+}

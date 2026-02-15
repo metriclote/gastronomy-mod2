@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:macaronradioactivo"
+    },
+    "title": {
+      "translate": "advancements.sevolvioradioactivooqupaso.title"
+    },
+    "description": {
+      "translate": "advancements.sevolvioradioactivooqupaso.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sevolvioradioactivooqupaso_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "milas_and_metric_gastronomy_mod:macaronradioactivo"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:elsuenodeloschef"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:jugometric",
+    "milas_and_metric_gastronomy_mod:tinteblack"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:jugometriocn",
+    "count": 1
+  }
+}

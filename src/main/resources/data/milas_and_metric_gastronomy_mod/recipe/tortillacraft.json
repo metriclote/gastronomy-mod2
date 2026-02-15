@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:wheat"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:tortilla",
+    "count": 3
+  }
+}

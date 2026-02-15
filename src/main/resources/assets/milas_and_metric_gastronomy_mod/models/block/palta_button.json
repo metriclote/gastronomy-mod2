@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "milas_and_metric_gastronomy_mod:block/palta_planks",
+    "particle": "milas_and_metric_gastronomy_mod:block/palta_planks"
+  },
+  "render_type": "solid"
+}

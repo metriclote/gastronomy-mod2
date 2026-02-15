@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:pina",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:pina",
+    "milas_and_metric_gastronomy_mod:queso_1",
+    "milas_and_metric_gastronomy_mod:masa",
+    "milas_and_metric_gastronomy_mod:salsa"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pizaconpuna",
+    "count": 1
+  }
+}

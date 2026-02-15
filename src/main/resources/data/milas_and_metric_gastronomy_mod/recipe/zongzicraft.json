@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bamboo",
+    "minecraft:string",
+    "minecraft:bamboo",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_beef",
+    "minecraft:potato",
+    "minecraft:bamboo",
+    "minecraft:string",
+    "minecraft:bamboo"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:zongzi",
+    "count": 1
+  }
+}

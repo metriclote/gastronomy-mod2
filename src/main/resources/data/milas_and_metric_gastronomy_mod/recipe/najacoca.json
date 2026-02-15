@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milas_and_metric_gastronomy_mod:narana",
+    "milas_and_metric_gastronomy_mod:narana",
+    "milas_and_metric_gastronomy_mod:cocacola",
+    "milas_and_metric_gastronomy_mod:narana",
+    "milas_and_metric_gastronomy_mod:narana"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cocanaja",
+    "count": 1
+  }
+}

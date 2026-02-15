@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:redstone",
+    "b": "minecraft:slime_ball",
+    "c": "milas_and_metric_gastronomy_mod:macaron"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:macaronradioactivo",
+    "count": 1
+  }
+}

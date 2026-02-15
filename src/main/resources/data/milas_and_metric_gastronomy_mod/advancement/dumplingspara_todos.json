@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:dumplings"
+    },
+    "title": {
+      "translate": "advancements.dumplingspara_todos.title"
+    },
+    "description": {
+      "translate": "advancements.dumplingspara_todos.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dumplingspara_todos_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "milas_and_metric_gastronomy_mod:dumplings"
+            ],
+            "count": {
+              "min": 10,
+              "max": 10
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:shushilogro"
+}

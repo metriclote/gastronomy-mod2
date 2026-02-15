@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:apple",
+    "minecraft:apple",
+    "milas_and_metric_gastronomy_mod:cocacola",
+    "minecraft:apple",
+    "minecraft:apple"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:cocamanz",
+    "count": 1
+  }
+}

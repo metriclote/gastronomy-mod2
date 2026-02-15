@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "milas_and_metric_gastronomy_mod:gastronomiworld"
+    },
+    "title": {
+      "translate": "advancements.elsuenodeloschef.title"
+    },
+    "description": {
+      "translate": "advancements.elsuenodeloschef.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "elsuenodeloschef_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "milas_and_metric_gastronomy_mod:gastronomiworld"
+      }
+    }
+  },
+  "parent": "milas_and_metric_gastronomy_mod:sabiadelospollosperodelospinchosno"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "acb",
+    " d "
+  ],
+  "key": {
+    "a": "milas_and_metric_gastronomy_mod:tomatedorado",
+    "b": "milas_and_metric_gastronomy_mod:aguacateencantado",
+    "c": "minecraft:bowl",
+    "d": "milas_and_metric_gastronomy_mod:salmisticas_dust"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:guacamolereal",
+    "count": 1
+  }
+}

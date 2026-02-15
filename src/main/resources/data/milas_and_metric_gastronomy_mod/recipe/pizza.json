@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cooked_porkchop",
+    "milas_and_metric_gastronomy_mod:tomate",
+    "milas_and_metric_gastronomy_mod:queso_1",
+    "milas_and_metric_gastronomy_mod:masa",
+    "milas_and_metric_gastronomy_mod:salsa"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:pizza_1",
+    "count": 1
+  }
+}

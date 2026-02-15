@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "abc",
+    " de"
+  ],
+  "key": {
+    "a": "minecraft:cooked_porkchop",
+    "b": "milas_and_metric_gastronomy_mod:masa",
+    "c": "minecraft:water_bucket",
+    "d": "minecraft:sugar",
+    "e": "minecraft:carrot"
+  },
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:baozi",
+    "count": 1
+  }
+}

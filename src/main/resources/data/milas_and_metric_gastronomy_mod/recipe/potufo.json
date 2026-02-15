@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:light_blue_dye",
+    "milas_and_metric_gastronomy_mod:arandano",
+    "minecraft:glow_ink_sac",
+    "minecraft:iron_leggings",
+    "milas_and_metric_gastronomy_mod:perrocalientea",
+    "minecraft:iron_leggings",
+    "minecraft:glow_ink_sac",
+    "milas_and_metric_gastronomy_mod:arandano",
+    "minecraft:light_blue_dye"
+  ],
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:perropitufo",
+    "count": 1
+  }
+}

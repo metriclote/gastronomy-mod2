@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 9,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Gomita4"
+      },
+      {
+        "value": "CUSTOM:Gomita5"
+      },
+      {
+        "value": "CUSTOM:Gomita"
+      },
+      {
+        "value": "CUSTOM:Gomita"
+      },
+      {
+        "value": "Items.RECORD_WARD"
+      },
+      {
+        "value": "CUSTOM:Gomita3"
+      },
+      {
+        "value": "CUSTOM:Gomita3"
+      },
+      {
+        "value": "CUSTOM:Gomita3"
+      },
+      {
+        "value": "CUSTOM:Gomita2"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Gummybear"
+    },
+    "name": "craftgummybear",
+    "namespace": "mod"
+  }
+}

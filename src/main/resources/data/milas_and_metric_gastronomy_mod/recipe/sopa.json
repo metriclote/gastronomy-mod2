@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": "minecraft:crafting_table",
+  "addition": "milas_and_metric_gastronomy_mod:salsamilasflu_bucket",
+  "result": {
+    "id": "milas_and_metric_gastronomy_mod:mesadegatronomia"
+  }
+}

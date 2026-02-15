@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": "CUSTOM:Raviolimilas"
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Salsamilas"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Megaraviolimilas"
+    },
+    "name": "megarav_io",
+    "namespace": "mod"
+  }
+}
